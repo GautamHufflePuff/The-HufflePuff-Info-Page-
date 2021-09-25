@@ -1,5 +1,8 @@
 body {
     text-align: center;
+    background-image:url("https://files.123freevectors.com/wp-content/original/144285-abstract-black-and-yellow-background-image.jpg");
+    color: white;
+    background-size: cover
 }
 h1 {
 font-size: 70px;    
